@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "name": "Puma Sneakers",
+      "description": "Size: Dubble-XL",
+      "price": "190$",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbiDS2l-eXQr9hlx66EODttpaktL5KvIbVrLGxd7e3tiMVKLDFpCRfR2nvS5qqyFoii-k&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Puma Ferrari",
+      "description": "Size: Dubble-XL",
+      "price": "180$",
+      "image": "https://i.pinimg.com/736x/7e/9d/67/7e9d676c003080d26b544bc474c242b5.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Puma Running",
+      "description": "Size: Dubble-XL.",
+      "price": "$200",
+      "image": "https://cdn.shopify.com/s/files/1/0632/7687/6012/products/ShoePink.jpg?v=1654334997&width=1946"
+    }
+  ]
+}
